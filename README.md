@@ -1,5 +1,11 @@
 # Lunar_Lander
 
+
+
+https://user-images.githubusercontent.com/103886856/168421118-d087fab0-ffdf-48b4-97ee-5246c2bdbbe2.mp4
+
+
+
 The main objective of our Lunar Lander is to land safely between the two flags. To achieve this goal, we need to change the hyperparameters of the model to train our ship and let it learn what actions to take.
 
 First of all, a pilot was run to serve as a baseline, setting the hyperparameters without a clear objective. As shown in the following graph, this strategy did not achieve a good result after several iterations.
