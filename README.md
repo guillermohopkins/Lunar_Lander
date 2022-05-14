@@ -1,4 +1,4 @@
-# Lunar_Lander
+# Lunar Lander
 
 
 
@@ -27,7 +27,7 @@ As shown in the following graph, the long-term strategy (in blue) quickly outper
 
 Short-term and long-term strategies’ total reward.
 
-# Hyperparameters
+## Hyperparameters
 
 The best combination of hyperparameters was found with the second strategy, in the checkpoint 490, achieving a total reward of 264 in the test, with the following combination:
 
@@ -51,7 +51,7 @@ The best combination of hyperparameters was found with the second strategy, in t
 - TRAINABLE_STD_DEV:    bool = False 
 - INIT_LOG_STD_DEV:     float = 0.0
 
-# REFERENCES
+## REFERENCES
 - Foster, C. (2019). Entropy loss for reinforcement learning. From https://fosterelli.co/entropy-loss-for-reinforcement-learning
 -	Schulman, et al. (2016). High-dimensional continuous control using generalized advantage estimation. From https://arxiv.org/pdf/1506.02438.pdf
 -	Shen, K. (2018). Effect of batch size on training dynamics. From https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e
