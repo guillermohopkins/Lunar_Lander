@@ -1,11 +1,7 @@
 # Lunar Lander
 
 
-
-https://user-images.githubusercontent.com/103886856/168421118-d087fab0-ffdf-48b4-97ee-5246c2bdbbe2.mp4
-
-
-
+![video_gif](https://user-images.githubusercontent.com/103886856/168421883-f37a1a31-fc96-4e44-89cc-3c6e339121a6.gif)
 
 The main objective of the OpenAI's LunarLander-v2 gym is to land safely between the two flags. To achieve this goal, we need to change the hyperparameters of the model to train our ship and let it learn what actions to take.
 
